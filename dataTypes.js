@@ -6,7 +6,3 @@ console.log(10%54);
 console.log("hello" === "Hello");
 console.log(3 != 4);
 console.log(4 <= 5);
-
-
-var name = "Harry Potter";
-console.log(name)
