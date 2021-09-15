@@ -17,7 +17,7 @@ function printName() {
   console.log("Severus Snape");
 };
 
-printName(); 
+printName();
 printName();
 printName();
 printName();
@@ -26,6 +26,12 @@ printName();
 
 // YOU DO: Write a function named sayHello that logs to the console "Oh, Hello!"
 // Then, call the function 2 times.
+function greeting(){
+  console.log("Oh, Hello!")
+};
+
+greeting();
+greeting();
 
 //-------------------
 // PART 2: Arguments and Parameters
@@ -35,16 +41,45 @@ printName();
 // The function should print out the value of the String that was passed in.
 // Then, call the function 3 times, each time, passing it a different name.
 
+var name1 = "Jessica";
+var name2 = "Adam";
+var name3 = "Erik";
+
+function greetMe(name1, name2, name3) {
+  console.log(name1)
+};
+
+greetMe(name1);
+greetMe(name2);
+greetMe(name3);
 
 
 // YOU DO: Write a function that takes in 2 numbers as arguments, Numbers, and logs their sum
 // Then, call that function 3 times, each time, passing in 2 different Numbers.
+
+function getSum (num1, num2){
+  console.log(num1 + num2);
+}
+
+getSum(1, 2);
+getSum(2, 4);
+getSum(5, 6);
+
 
 
 
 // YOU DO🎈: Write a function that takes in two strings and prints a concatenation
 // of those two strings, for example the arguments could be ("Oscar", "Ruck") and
 // the end result might be "Oscar and Ruck are BFFS".  Then, call that function.
+
+var sleep = "sleep";
+var exercise = "exercise";
+
+function healthyLife(s1, s2) {
+  console.log(s1 + " and " + s2 + " are keys to a healthy lifestyle");
+}
+
+healthyLife(sleep, exercise);
 
 
 
@@ -60,6 +95,9 @@ Look at the code you wrote for the previous YOU DO🎈 - what did you name the f
 What did you name each parameter, and why?
 
 EXPLAIN:
-
+I named the function healthyLife because it was relevant to my string and the task
+I wanted it to perform.
+I named each parameter s1, s2, etc because I wanted it to be easy to recall and easy to type.
+Also, to me, it means string1 and string2
 
 */
