@@ -49,8 +49,9 @@ console.log(`In a predictable result, the ${slowPoke} beat the ${speedy}`);
   // Then, log out ONE sentence that incorporates all THREE variables uisng interpolation.
 var lazy = "don't feel like cooking,";
 var dinner = "pizza";
+var suggestion = "lets just order"
 
-console.log(`I ${lazy} lets just order some ${dinner}`);
+console.log(`I ${lazy} ${suggestion} some ${dinner}`);
 
 
 

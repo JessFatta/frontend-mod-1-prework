@@ -22,7 +22,8 @@ var creatures = "unicorns";
 console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: The data type that will be logged is a string because strings can be used to work with any kind of text including numbers, letters, special characters, etc
+// Your answer and explanation here:
+//The data type that will be logged is a string because strings can be used to work with any kind of text including numbers, letters, special characters, etc
 
 
 // YOU DO:

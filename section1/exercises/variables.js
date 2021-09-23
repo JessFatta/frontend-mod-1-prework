@@ -13,7 +13,7 @@ file from your terminal with the command `node section1/exercises/variables.js`
 // EXAMPLE: Write code below to assign Harry Potter's name to a variable and
 // log that variable to the console:
 var name = "Harry Potter";
-console.log(name); 
+console.log(name);
 
 // EXAMPLE: Write code below to add 2 to the variable `students` and
 // log the result:
@@ -31,28 +31,31 @@ console.log(order);
   // Store the appropriate data types in each.
 // log all three variables to the console.
 var firstName = "Jessica";
-console.log (firstName);
-var status = "is hungry";
-console.log (status);
-var numberOfPets = "currently just plants";
-console.log (numberOfPets);
+console.log(firstName);
+
+var isHungry = true;
+console.log(isHungry);
+
+var numberOfPets = 0;
+console.log(numberOfPets);
 
 
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-// I used string and numbers for the data types above because strings are used for any kind of text and the number data type is used for numbers
+// I used string, boolean, and numbers for the data types above because strings are used for
+// any kind of text and the number data type is used for numbers and booleans determine true or false
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
 
-var firstName = "Jess";
-console.log (firstName);
-var status = "is not hungry";
-console.log (status);
-var numberOfPets = ("0");
+firstName = "Jess";
+console.log(firstName);
+isHungry = false;
+console.log(isHungry);
+numberOfPets = 1;
 console.log(numberOfPets);
 
 // YOU DO:
@@ -60,10 +63,8 @@ console.log(numberOfPets);
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
-var healthySnacks = "6";
-console.log (healthySnacks);
-var junkFoodSnacks = "8";
-console.log (junkFoodSnacks);
+
+console.log(healthySnacks + junkFoodSnacks);
 
 
 

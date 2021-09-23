@@ -6,7 +6,7 @@ For one, the SuperLearner Article resonated with me in a way that anyone can be 
 From this list, I feel as if I already do a couple things, including viewing learning as a process as well as taking care of my brain. One thing I would like to start doing more of is taking short breaks, early and often. Sometimes I feel as if I get so wrapped up in what I am working on that I don't realize how much time has gone by without me taking a quick break. After reading this article, I learned that taking breaks is crucial to retaining information, rather than just cramming. I think this list is pretty well rounded and not too specific in terms of what makes a SuperLearner so I'm not sure of anything else I would add. Maybe I'll think of more as I continue my learning journey.
 
 2. What are the data types you learned about in this section? In your own words, define each.
-The three data types I learned in this section are numbers, strings, and booleans. Numbers is pretty obvious in that it consists of numbers, however the main difference is that it only contains numbers.
+The three data types I learned in this section are numbers, strings, and booleans. Numbers is pretty obvious in that it consists of numbers, however the main difference is that it can only contains numbers. There are no quotation marks.
 Strings have a little more freedom because they can consist of letters, special characters, AND numbers. For me, if you aren't just plugging simple math, you would use strings over numbers because you can also assign what the numbers relate to.
 Booleans are interesting because it basically answers true or false questions. This data type is most useful when determining if something is correct or not, such as a password.
 
@@ -29,7 +29,7 @@ I would say that userName and password are boolean data types because they answe
 
 
 7. In your own words, explain what concatenation is.
-Concatenation means to combine. In an example of a string data type, concatenation can create statement and sentences in the console log.
+Concatenation means to combine. In an example of a string data type, concatenation can create statement and sentences in the console log by using +
 
 8. Think of a site or app you use frequently. Where do you think the developers used concatention?
 Amazon uses concatenation in their sign in page.
