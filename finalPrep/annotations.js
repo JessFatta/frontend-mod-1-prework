@@ -35,7 +35,7 @@ buildABear('Fluffy', 4, 'brown', ['pants', 'jorts', 'tanktop'], 'give you nightm
 // define buildABear's other dynamic parameters
 buildABear('Sleepy', 2, 'purple', ['pajamas', 'sleeping cap'], 'sleeping in');
 
-
+//
 
 //FizzBuzz
 // this is a function called fizzBuzz with 3 parameters of variables

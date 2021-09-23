@@ -175,3 +175,4 @@ console.log(sayName);
 // What skills do you need to continue to practice before starting Mod 1?
 
 // class methods and a little more practice with if/else statements.
+//
