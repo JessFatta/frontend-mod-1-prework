@@ -142,26 +142,27 @@ var age = 1;
 // YOU DO:
 // Determine if the dog loves to play and loves treats
 
-// console.log(lovesToPlay && lovesTreats);
+console.log(lovesToPlay && lovesTreats);
 // true because lovesToPlay is true and lovesTreats is true and in
 // logical AND operators the operator only returns true when
 // both of its operands are true
 
 // Determine if the dog loves to play and loves the dog park
 
-// console.log(lovesToPlay && lovesDogPark);
+console.log(lovesToPlay && lovesDogPark);
 // false because lovesToPlay is true and lovesDogPark is false and in
 // logical AND operators the operator only returns true when both of its
 // operands are true
 
 // Determine if the dog loves to play or loves the dog park
 
-// console.log(lovesToPlay || lovesDogPark);
+console.log(lovesToPlay || lovesDogPark);
 // true because lovesToPlay is true and lovesDogPark is false and in logical
 // OR operators the operator only returns false when both of its operands
 // are false
 
 // Determine if the dog loves to play and is a puppy
+
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
